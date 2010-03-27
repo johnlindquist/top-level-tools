@@ -1,0 +1,23 @@
+<flex-config xmlns="http://www.adobe.com/2006/flex-config">
+  <target-player>10.0.0</target-player>
+  <compiler>
+    <debug>true</debug>
+    <source-path>
+      <path-element>src</path-element>
+    </source-path>
+  </compiler>
+  <include-classes>
+    <class>$addEnterFrameCallback</class>
+    <class>topleveltools.SingleEnterFrame</class>
+    <class>topleveltools.TopLevelMap</class>
+    <class>$startEnterFrame</class>
+    <class>$</class>
+    <class>_</class>
+    <class>$mapClass</class>
+    <class>$new</class>
+    <class>$getInstance</class>
+    <class>$mapSingleton</class>
+    <class>$execute</class>
+  </include-classes>
+  <output>D:/git/top-level-tools/bin/top-level-tools.swc</output>
+</flex-config>
