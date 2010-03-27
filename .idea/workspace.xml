@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="407e8822-bc14-4c9b-8309-aa19a38f626e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloFlash_temp_flex_main_class_config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\out\production\top-level-tools\playerProductInstall.swf" afterPath="" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\junktests\SimpleObject.as" afterPath="" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\TopLevelTools.as" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\junktests\SimpleModel.as" afterPath="" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\wrapper.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/HelloFlash.iml" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\out\production\top-level-tools\_TopLevelTools.swf" afterPath="" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\playerProductInstall.swf" afterPath="" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\junktests\InjectStuffHere.as" afterPath="" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\junktests\SimpleCommand.as" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top-level-tools.iml" afterPath="$PROJECT_DIR$/top-level-tools.iml" />
     </list>
     <ignored path="top-level-tools.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -143,6 +129,7 @@
         <option value="John Lindquist" />
       </array>
     </option>
+    <option name="LINE_SEPARATORS_CONVERSION" value="NONE" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
