@@ -21,6 +21,8 @@ package junktests
 			trace("junktests.InjectStuffHere::SimpleSprite: ", simpleModel.unique);
 			trace("junktests.InjectStuffHere::SimpleSprite: ", simpleModel2.unique);
 			trace("junktests.InjectStuffHere::SimpleSprite: ", simpleModel3.unique);
+
+			$execute(SimpleCommand, "execute");
 		}
 	}
 }              

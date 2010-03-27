@@ -7,5 +7,10 @@ package junktests
 		{
 			unique = Math.random();
 		}
+
+		public function update():void
+		{
+			trace("updating model")
+		}
 	}
 }
