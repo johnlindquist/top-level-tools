@@ -18,6 +18,12 @@
     <class>$getInstance</class>
     <class>$mapSingleton</class>
     <class>$execute</class>
+    <class>$getContext</class>
+    <class>$getView</class>
+    <class>$addMediatedView</class>
+    <class>$mapContextView</class>
+    <class>$Mediator</class>
+    <class>$mapMediator</class>
   </include-classes>
   <output>D:/git/top-level-tools/bin/top-level-tools.swc</output>
 </flex-config>
