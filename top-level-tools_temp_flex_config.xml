@@ -24,6 +24,7 @@
     <class>$mapContextView</class>
     <class>$Mediator</class>
     <class>$mapMediator</class>
+    <class>$mapCallback</class>
   </include-classes>
   <output>D:/git/top-level-tools/bin/top-level-tools.swc</output>
 </flex-config>

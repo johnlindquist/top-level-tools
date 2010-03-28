@@ -34,9 +34,11 @@ package topleveltools
 			dictionary[whenAskedFor] = instantiateClass;
 		}
 
+		private var viewClasses:Array = [];
 
 		public function mapMediator(context:DisplayObject, viewClass:Class, mediatorClass:Class):void
 		{
+			viewClasses.push(viewClass);
 			context.addEventListener(Event.ADDED_TO_STAGE, onAddViewToStage, true);
 			map(viewClass, mediatorClass);
 			mapViewToContext(viewClass, context);
@@ -49,13 +51,20 @@ package topleveltools
 
 		private function onAddViewToStage(event:Event):void
 		{
-			trace("topleveltools.TopLevelMap::onAddViewToStage: ", event.target);
 			var view:Sprite = event.target as Sprite;
-			var viewClass:Class = getDefinitionByName(getQualifiedClassName(view)) as Class;
-			var mediatorClass:Class = getByKey(viewClass);
-			var mediator:$Mediator = new mediatorClass() as $Mediator;
-			mediator.view = view;
-			mediator.onRegister();
+			if (view)
+			{
+				var viewClass:Class = getDefinitionByName(getQualifiedClassName(view)) as Class;
+				var mediatorClass:Class = getByKey(viewClass);
+				if (mediatorClass)
+				{
+					var mediator:$Mediator = new mediatorClass() as $Mediator;
+					mediator.view = view;
+					mediator.onRegister();
+				}
+			}
+
+
 		}
 
 		public function getContextByView(clazz:Class):*
@@ -65,6 +74,30 @@ package topleveltools
 
 		public function mapContextView(context:DisplayObject, view:Class):void
 		{
+		}
+
+		public function mapCallback(command:Class, func:Function):void
+		{
+
+			var callbacks:Array = getByKey(command) ? getByKey(command) : [];
+			callbacks.push(func);
+
+			map(command, callbacks);
+		}
+
+		public function getInstance(clazz:Class):*
+		{
+			var singleton:*
+			if(getByKey(clazz) == null)
+			{
+				singleton = new clazz();
+				map(clazz, singleton);
+			}
+			else
+			{
+				singleton = getByKey(clazz);
+			}
+			return singleton;
 		}
 	}
 }
