@@ -1,8 +1,8 @@
-package
+package $MVC
 {
 	import flash.display.Sprite;
 
-	public class $Mediator
+	public class Mediator
 	{
 		private var _view:Sprite;
 

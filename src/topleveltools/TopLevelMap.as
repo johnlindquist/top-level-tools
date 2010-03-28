@@ -1,5 +1,7 @@
 package topleveltools
 {
+	import $MVC.Mediator;
+
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
 	import flash.events.Event;
@@ -58,7 +60,7 @@ package topleveltools
 				var mediatorClass:Class = getByKey(viewClass);
 				if (mediatorClass)
 				{
-					var mediator:$Mediator = new mediatorClass() as $Mediator;
+					var mediator:Mediator = new mediatorClass() as Mediator;
 					mediator.view = view;
 					mediator.onRegister();
 				}

@@ -1,8 +1,8 @@
-package
+package $
 {
 	import topleveltools.TopLevelMap;
 
-	public function $execute(clazz:Class, functionName:String = "execute"):void
+	public function execute(clazz:Class, functionName:String = "execute"):void
 	{
 		var command:* = new clazz();
 		command[functionName]();

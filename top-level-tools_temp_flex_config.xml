@@ -7,28 +7,27 @@
     </source-path>
   </compiler>
   <include-classes>
-    <class>$String.$getLettersFromString</class>
-    <class>$String.$getNumbersFromString</class>
-    <class>$</class>
-    <class>$addEnterFrameCallback</class>
-    <class>$addMediatedView</class>
-    <class>$execute</class>
-    <class>$getContext</class>
-    <class>$getInstance</class>
-    <class>$getNew</class>
-    <class>$mapCallback</class>
-    <class>$mapClass</class>
-    <class>$mapContextView</class>
-    <class>$mapMediator</class>
-    <class>$mapSingleton</class>
-    <class>$mapSingletonOf</class>
-    <class>$mapValue</class>
-    <class>$Mediator</class>
-    <class>$startEnterFrame</class>
-    <class>topleveltools.SingleEnterFrame</class>
+    <class>$.mapClass</class>
+    <class>$.mapSingleton</class>
+    <class>$.mapSingletonOf</class>
+    <class>$.mapValue</class>
+    <class>$.mapCallback</class>
+    <class>$.getInstance</class>
+    <class>$.mapContextView</class>
+    <class>$.execute</class>
+    <class>$.getNew</class>
+    <class>$.getContext</class>
+    <class>$String.getNumbersFromString</class>
+    <class>$String.getLettersFromString</class>
     <class>topleveltools.TopLevelMap</class>
+    <class>topleveltools.SingleEnterFrame</class>
+    <class>$Date.getDayAsString</class>
     <class>_</class>
-    <class>$Date.$getDayAsString</class>
+    <class>$MVC.addMediatedView</class>
+    <class>$MVC.Mediator</class>
+    <class>$MVC.mapMediator</class>
+    <class>$Event.startEnterFrame</class>
+    <class>$Event.addEnterFrameCallback</class>
   </include-classes>
   <output>D:/git/top-level-tools/bin/top-level-tools.swc</output>
 </flex-config>
