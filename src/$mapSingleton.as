@@ -6,4 +6,4 @@ package
 	{
 		TopLevelMap.getInstance().map(clazz, new clazz());		
 	}
-}
+}                                      
