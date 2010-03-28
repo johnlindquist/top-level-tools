@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="407e8822-bc14-4c9b-8309-aa19a38f626e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as" afterPath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$Date/$getDayAsString.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$String/$getLettersFromString.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/Readout.as" afterPath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/Readout.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as" afterPath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$String/$getNumbersFromString.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" afterPath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" />
     </list>
-    <ignored path="top-level-tools.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="top-level-tools.iws" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,91 +71,19 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ReadoutMediator.as" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ReadoutMediator.as" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="79" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0">
+            <state line="13" column="92" selection-start="436" selection-end="436" vertical-scroll-proportion="0.34564254">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BallMediator.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as">
+      <file leaf-file-name="$getDayAsString.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/$Date/$getDayAsString.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="8" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ball.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/Ball.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="53" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloFlash.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="31" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="$mapSingleton.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/$mapSingleton.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="39" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="$getNew.as" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/$getNew.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="38" selection-start="200" selection-end="200" vertical-scroll-proportion="0.23929098">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="$getInstance.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/$getInstance.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="57" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="$mapValue.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/$mapValue.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="49" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="$mapSingletonOf.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/$mapSingletonOf.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="28" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StartupCommand.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/StartupCommand.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="17" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+            <state line="7" column="24" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -174,13 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/$mapContextView.as" />
-        <option value="$PROJECT_DIR$/src/$getContext.as" />
-        <option value="$PROJECT_DIR$/src/$mapCallback.as" />
-        <option value="$PROJECT_DIR$/src/$execute.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/model/StatsModel.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBallCommand.as" />
         <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/StartupCommand.as" />
         <option value="$PROJECT_DIR$/src/topleveltools/TopLevelMap.as" />
         <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as" />
@@ -190,6 +117,13 @@
         <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as" />
         <option value="$PROJECT_DIR$/src/$mapSingleton.as" />
         <option value="$PROJECT_DIR$/src/$getNew.as" />
+        <option value="$PROJECT_DIR$/src/$date/format.as" />
+        <option value="$PROJECT_DIR$/src/$date/formatDate.as" />
+        <option value="$PROJECT_DIR$/src/$string/getNumbersFromString.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/Readout.as" />
+        <option value="$PROJECT_DIR$/src/$String/getLettersFromString.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as" />
+        <option value="$PROJECT_DIR$/src/$Date/$getDayAsString.as" />
       </list>
     </option>
   </component>
@@ -231,6 +165,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -255,14 +191,80 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topleveltools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$String" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$Date" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="HelloFlash" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Favorites" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -280,8 +282,8 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -316,7 +318,7 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit">
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" air_descriptor_path="" air_program_params="" air_publisher_id="" air_root_dir_path="" air_run_mode="AppDescriptor" class_name="" html_or_swf_file_path="" main_class_name="" method_name="" module_name="" output_log_level="" package_name="" port="0" run_mode="HtmlOrSwfFile" scope="Class" socket_policy_port="0" url_to_launch="http://">
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -324,7 +326,7 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="FlexRunConfigurationType" factoryName="Flex">
+    <configuration default="true" type="FlexRunConfigurationType" factoryName="Flex" html_or_swf_file_path="" main_class_name="" module_name="" run_mode="HtmlOrSwfFile" url_to_launch="http://">
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -385,7 +387,7 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+  <component name="SvnConfiguration">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="LAST_MERGED_REVISION" />
@@ -405,23 +407,23 @@
     <frame x="-8" y="-8" width="1874" height="1216" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987747" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48444864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987747" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987747" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987747" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987747" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2498621" sideWeight="0.663525" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958587" sideWeight="0.663525" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48444864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498621" sideWeight="0.663525" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987747" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498621" sideWeight="0.663525" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -464,114 +466,90 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/$execute.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="19" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$getContext.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBallCommand.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="18" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/model/StatsModel.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="48" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="48" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$mapSingletonOf.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="28" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$getInstance.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="57" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="8" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/Ball.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="53" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="31" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$mapSingleton.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="39" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$getNew.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="38" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$String/$getNumbersFromString.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="26" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$mapValue.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="49" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/StartupCommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/Readout.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="24" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
+        <state line="13" column="56" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/topleveltools/TopLevelMap.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="24" selection-start="1685" selection-end="1685" vertical-scroll-proportion="0.0">
+        <state line="65" column="24" selection-start="1685" selection-end="1685" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$String/$getLettersFromString.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="10" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/$mapSingletonOf.as">
+    <entry file="file://$PROJECT_DIR$/src/$Date/$getDayAsString.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="28" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$getInstance.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="57" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/Ball.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="53" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/StartupCommand.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$mapValue.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="49" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="8" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0">
+        <state line="7" column="24" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="79" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="31" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$mapSingleton.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="39" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$getNew.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="38" selection-start="200" selection-end="200" vertical-scroll-proportion="0.23929098">
+        <state line="13" column="92" selection-start="436" selection-end="436" vertical-scroll-proportion="0.34564254">
           <folding />
         </state>
       </provider>

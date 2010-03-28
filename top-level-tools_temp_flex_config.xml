@@ -7,25 +7,28 @@
     </source-path>
   </compiler>
   <include-classes>
-    <class>$addEnterFrameCallback</class>
-    <class>topleveltools.SingleEnterFrame</class>
-    <class>topleveltools.TopLevelMap</class>
-    <class>$startEnterFrame</class>
+    <class>$String.$getLettersFromString</class>
+    <class>$String.$getNumbersFromString</class>
     <class>$</class>
-    <class>_</class>
-    <class>$mapClass</class>
-    <class>$getInstance</class>
-    <class>$mapSingleton</class>
+    <class>$addEnterFrameCallback</class>
+    <class>$addMediatedView</class>
     <class>$execute</class>
     <class>$getContext</class>
-    <class>$addMediatedView</class>
-    <class>$mapContextView</class>
-    <class>$Mediator</class>
-    <class>$mapMediator</class>
+    <class>$getInstance</class>
+    <class>$getNew</class>
     <class>$mapCallback</class>
+    <class>$mapClass</class>
+    <class>$mapContextView</class>
+    <class>$mapMediator</class>
+    <class>$mapSingleton</class>
     <class>$mapSingletonOf</class>
     <class>$mapValue</class>
-    <class>$getNew</class>
+    <class>$Mediator</class>
+    <class>$startEnterFrame</class>
+    <class>topleveltools.SingleEnterFrame</class>
+    <class>topleveltools.TopLevelMap</class>
+    <class>_</class>
+    <class>$Date.$getDayAsString</class>
   </include-classes>
   <output>D:/git/top-level-tools/bin/top-level-tools.swc</output>
 </flex-config>
