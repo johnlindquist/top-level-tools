@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="407e8822-bc14-4c9b-8309-aa19a38f626e" name="Default" comment="">
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$new.as" afterPath="$PROJECT_DIR$/src/$getNew.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as" afterPath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$mapValue.as" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\$getView.as" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/$mapSingleton.as" afterPath="$PROJECT_DIR$/src/$mapSingleton.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" afterPath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" />
     </list>
     <ignored path="top-level-tools.iws" />
     <ignored path=".idea/workspace.xml" />
