@@ -4,12 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/$Map/mapSingleton.as" line="6" mnemonic="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="407e8822-bc14-4c9b-8309-aa19a38f626e" name="Default" comment="Cleaning up code">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/managers/SingleEnterFrame.as" afterPath="$PROJECT_DIR$/src/managers/SingleEnterFrame.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/$Array/removeDuplicates.as" afterPath="$PROJECT_DIR$/src/$Array/removeDuplicates.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" afterPath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" />
-    </list>
+    <list default="true" readonly="true" id="407e8822-bc14-4c9b-8309-aa19a38f626e" name="Default" comment="" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="top-level-tools.iws" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -437,7 +432,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="true" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Array functions from casalib" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaning up code" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -456,9 +451,9 @@
     <MESSAGE value="building a Hello World mvcs experiment" />
     <MESSAGE value="Experimenting with package names" />
     <MESSAGE value="Reorganizing directories" />
-    <MESSAGE value="Cleaning up code" />
     <MESSAGE value="adding Array functions from casalib" />
     <MESSAGE value="Adding Array functions from casalib" />
+    <MESSAGE value="Cleaning up code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
