@@ -5,69 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="407e8822-bc14-4c9b-8309-aa19a38f626e" name="Default" comment="">
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\get\getValue.as" afterPath="$PROJECT_DIR$/src/tools/get/getValue.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\event\addEnterFrameCallback.as" afterPath="$PROJECT_DIR$/src/tools/event/addEnterFrameCallback.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\map\mapValue.as" afterPath="$PROJECT_DIR$/src/tools/map/mapValue.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\command\execute.as" afterPath="$PROJECT_DIR$/src/tools/command/execute.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\managers\SingleEnterFrame.as" afterPath="$PROJECT_DIR$/src/tools/managers/SingleEnterFrame.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\managers\TopLevelMap.as" afterPath="$PROJECT_DIR$/src/tools/managers/TopLevelMap.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\mediator\Mediator.as" afterPath="$PROJECT_DIR$/src/tools/mediator/Mediator.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\number\randomWithinRange.as" afterPath="$PROJECT_DIR$/src/tools/number/randomWithinRange.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\getIndexOfDifference.as" afterPath="$PROJECT_DIR$/src/tools/array/getIndexOfDifference.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\$.as" afterPath="$PROJECT_DIR$/src/tools/$.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\equals.as" afterPath="$PROJECT_DIR$/src/tools/array/equals.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" afterPath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\contains.as" afterPath="$PROJECT_DIR$/src/tools/array/contains.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\containsAny.as" afterPath="$PROJECT_DIR$/src/tools/array/containsAny.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\getItemByKey.as" afterPath="$PROJECT_DIR$/src/tools/array/getItemByKey.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\map\mapClass.as" afterPath="$PROJECT_DIR$/src/tools/map/mapClass.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\getItemByType.as" afterPath="$PROJECT_DIR$/src/tools/array/getItemByType.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBall.as" afterPath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBall.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\map\mapMediator.as" afterPath="$PROJECT_DIR$/src/tools/map/mapMediator.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\map\mapCommand.as" afterPath="$PROJECT_DIR$/src/tools/map/mapCommand.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\retainItems.as" afterPath="$PROJECT_DIR$/src/tools/array/retainItems.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\get\getContext.as" afterPath="$PROJECT_DIR$/src/tools/get/getContext.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/FormatMessage.as" afterPath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/FormatMessage.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\map\mapSingleton.as" afterPath="$PROJECT_DIR$/src/tools/map/mapSingleton.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\map\mapSingletonOf.as" afterPath="$PROJECT_DIR$/src/tools/map/mapSingletonOf.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as" afterPath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\map\mapContextView.as" afterPath="$PROJECT_DIR$/src/tools/map/mapContextView.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\observer\notify.as" afterPath="$PROJECT_DIR$/src/tools/observer/notify.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\string\getLettersFromString.as" afterPath="$PROJECT_DIR$/src/tools/string/getLettersFromString.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\event\dispatch.as" afterPath="$PROJECT_DIR$/src/tools/event/dispatch.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as" afterPath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\managers\ValueManager.as" afterPath="$PROJECT_DIR$/src/tools/managers/ValueManager.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\managers\EventManager.as" afterPath="$PROJECT_DIR$/src/tools/managers/EventManager.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\managers\CommandManager.as" afterPath="$PROJECT_DIR$/src/tools/managers/CommandManager.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\containsAll.as" afterPath="$PROJECT_DIR$/src/tools/array/containsAll.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\removeItems.as" afterPath="$PROJECT_DIR$/src/tools/array/removeItems.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\mediator\addMediatedView.as" afterPath="$PROJECT_DIR$/src/tools/mediator/addMediatedView.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\date\getDayAsString.as" afterPath="$PROJECT_DIR$/src/tools/date/getDayAsString.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\average.as" afterPath="$PROJECT_DIR$/src/tools/array/average.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\randomize.as" afterPath="$PROJECT_DIR$/src/tools/array/randomize.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\getHighestValue.as" afterPath="$PROJECT_DIR$/src/tools/array/getHighestValue.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\getLowestValue.as" afterPath="$PROJECT_DIR$/src/tools/array/getLowestValue.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\addItemsAt.as" afterPath="$PROJECT_DIR$/src/tools/array/addItemsAt.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloFlash_temp_flex_config.xml" afterPath="$PROJECT_DIR$/HelloFlash_temp_flex_config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/Startup.as" afterPath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/Startup.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\event\startEnterFrame.as" afterPath="$PROJECT_DIR$/src/tools/event/startEnterFrame.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\getItemsByType.as" afterPath="$PROJECT_DIR$/src/tools/array/getItemsByType.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\sum.as" afterPath="$PROJECT_DIR$/src/tools/array/sum.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\_.as" afterPath="$PROJECT_DIR$/src/tools/_.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\map\mapCallback.as" afterPath="$PROJECT_DIR$/src/tools/map/mapCallback.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\removeItem.as" afterPath="$PROJECT_DIR$/src/tools/array/removeItem.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top-level-tools_temp_flex_main_class_config.xml" afterPath="$PROJECT_DIR$/top-level-tools_temp_flex_main_class_config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\number\randomIntegerWithinRange.as" afterPath="$PROJECT_DIR$/src/tools/number/randomIntegerWithinRange.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\get\getInstance.as" afterPath="$PROJECT_DIR$/src/tools/get/getInstance.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as" afterPath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\observer\observe.as" afterPath="$PROJECT_DIR$/src/tools/observer/observe.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\managers\CallbackManager.as" afterPath="$PROJECT_DIR$/src/tools/managers/CallbackManager.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\managers\ObserverManager.as" afterPath="$PROJECT_DIR$/src/tools/managers/ObserverManager.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\get\getNew.as" afterPath="$PROJECT_DIR$/src/tools/get/getNew.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\removeDuplicates.as" afterPath="$PROJECT_DIR$/src/tools/array/removeDuplicates.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\top\array\getItemsByKey.as" afterPath="$PROJECT_DIR$/src/tools/array/getItemsByKey.as" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <ignored path="top-level-tools.iws" />
@@ -432,7 +370,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="true" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renaming packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renaming packages to &quot;tools&quot;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -455,6 +393,7 @@
     <MESSAGE value="Adding Array functions from casalib" />
     <MESSAGE value="Cleaning up code" />
     <MESSAGE value="Renaming packages" />
+    <MESSAGE value="Renaming packages to &quot;tools&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
