@@ -1,6 +1,6 @@
 package $Event
 {
-	import topleveltools.SingleEnterFrame;
+	import managers.SingleEnterFrame;
 
 	public function addEnterFrameCallback(func:Function):void
 	{

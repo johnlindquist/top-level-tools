@@ -1,6 +1,6 @@
-package $
+package $Map
 {
-	import topleveltools.TopLevelMap;
+	import managers.TopLevelMap;
 
 	public function mapClass(whenAskedFor:Class, instantiateClass:Class):*
 	{

@@ -1,6 +1,5 @@
-package $MVC
+package $Mediator
 {
-	import $.*;
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
 

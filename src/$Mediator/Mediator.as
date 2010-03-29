@@ -1,4 +1,4 @@
-package $MVC
+package $Mediator
 {
 	import flash.display.Sprite;
 

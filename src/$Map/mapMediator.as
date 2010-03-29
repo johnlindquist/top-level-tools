@@ -1,8 +1,8 @@
-package $MVC
+package $Map
 {
 	import flash.display.Sprite;
 
-	import topleveltools.TopLevelMap;
+	import managers.TopLevelMap;
 
 	public function mapMediator(context:Sprite, viewClass:Class, mediatorClass:Class):void
 	{

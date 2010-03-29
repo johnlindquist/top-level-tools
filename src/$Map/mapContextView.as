@@ -1,6 +1,7 @@
-package $
+package $Map
 {
-	import topleveltools.*;
+	import managers.TopLevelMap;
+
 	import flash.display.DisplayObject;
 
 	public function mapContextView(context:DisplayObject, view:Class):void

@@ -7,27 +7,38 @@
     </source-path>
   </compiler>
   <include-classes>
-    <class>$.mapClass</class>
-    <class>$.mapSingleton</class>
-    <class>$.mapSingletonOf</class>
-    <class>$.mapValue</class>
-    <class>$.mapCallback</class>
-    <class>$.getInstance</class>
-    <class>$.mapContextView</class>
-    <class>$.execute</class>
-    <class>$.getNew</class>
-    <class>$.getContext</class>
+    <class>$Event.addEnterFrameCallback</class>
+    <class>$Event.startEnterFrame</class>
+    <class>$Event.dispatch</class>
+    <class>$Map.mapCommand</class>
+    <class>$Map.mapContextView</class>
+    <class>$Map.mapMediator</class>
+    <class>$Map.mapSingleton</class>
+    <class>$Map.mapCallback</class>
+    <class>$Map.mapValue</class>
+    <class>$Map.mapSingletonOf</class>
+    <class>$Map.mapClass</class>
+    <class>$.$</class>
+    <class>$Mediator.addMediatedView</class>
+    <class>$Mediator.Mediator</class>
+    <class>managers.ValueManager</class>
+    <class>managers.SingleEnterFrame</class>
+    <class>managers.CallbackManager</class>
+    <class>managers.CommandManager</class>
+    <class>managers.TopLevelMap</class>
+    <class>managers.EventManager</class>
+    <class>managers.ObserverManager</class>
+    <class>$Command.execute</class>
+    <class>$Get.getInstance</class>
+    <class>$Get.getContext</class>
+    <class>$Get.getValue</class>
+    <class>$Get.getNew</class>
+    <class>$Observer.notify</class>
+    <class>$Observer.observe</class>
     <class>$String.getNumbersFromString</class>
     <class>$String.getLettersFromString</class>
-    <class>topleveltools.TopLevelMap</class>
-    <class>topleveltools.SingleEnterFrame</class>
+    <class>_._</class>
     <class>$Date.getDayAsString</class>
-    <class>_</class>
-    <class>$MVC.addMediatedView</class>
-    <class>$MVC.Mediator</class>
-    <class>$MVC.mapMediator</class>
-    <class>$Event.startEnterFrame</class>
-    <class>$Event.addEnterFrameCallback</class>
   </include-classes>
   <output>D:/git/top-level-tools/bin/top-level-tools.swc</output>
 </flex-config>

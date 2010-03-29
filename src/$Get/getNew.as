@@ -1,6 +1,6 @@
-package $
+package $Get
 {
-	import topleveltools.TopLevelMap;
+	import managers.TopLevelMap;
 
 	public function getNew(clazz:Class):*
 	{

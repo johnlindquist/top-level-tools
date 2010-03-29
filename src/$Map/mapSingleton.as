@@ -1,6 +1,6 @@
-package $
+package $Map
 {
-	import topleveltools.TopLevelMap;
+	import managers.TopLevelMap;
 
 	public function mapSingleton(clazz:Class):void
 	{

@@ -1,8 +1,8 @@
-package $
+package $Get
 {
 	import flash.display.Sprite;
 
-	import topleveltools.TopLevelMap;
+	import managers.TopLevelMap;
 
 	public function getContext(clazz:Class):Sprite
 	{

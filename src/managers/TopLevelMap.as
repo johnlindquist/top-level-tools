@@ -1,6 +1,6 @@
-package topleveltools
+package managers
 {
-	import $MVC.Mediator;
+	import $Mediator.Mediator;
 
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
@@ -76,15 +76,6 @@ package topleveltools
 
 		public function mapContextView(context:DisplayObject, view:Class):void
 		{
-		}
-
-		public function mapCallback(command:Class, func:Function):void
-		{
-
-			var callbacks:Array = getByKey(command) ? getByKey(command) : [];
-			callbacks.push(func);
-
-			map(command, callbacks);
 		}
 
 		public function getInstance(clazz:Class):*

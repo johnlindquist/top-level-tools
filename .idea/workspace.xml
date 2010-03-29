@@ -1,34 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/$/mapSingleton.as" line="6" mnemonic="4" />
+    <bookmark url="file://$PROJECT_DIR$/src/$Map/mapSingleton.as" line="6" mnemonic="4" />
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="407e8822-bc14-4c9b-8309-aa19a38f626e" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\$addMediatedView.as" afterPath="" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\$mapSingletonOf.as" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/$Event/addEnterFrameCallback.as" afterPath="$PROJECT_DIR$/src/$Event/addEnterFrameCallback.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$Map/mapCommand.as" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$\mapContextView.as" afterPath="$PROJECT_DIR$/src/$Map/mapContextView.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$mapMediator.as" afterPath="$PROJECT_DIR$/src/$MVC/mapMediator.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$mapClass.as" afterPath="$PROJECT_DIR$/src/$/mapClass.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topleveltools/TopLevelMap.as" afterPath="$PROJECT_DIR$/src/topleveltools/TopLevelMap.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$mapSingleton.as" afterPath="$PROJECT_DIR$/src/$/mapSingleton.as" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\$String\$getNumbersFromString.as" afterPath="" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$startEnterFrame.as" afterPath="$PROJECT_DIR$/src/$Event/startEnterFrame.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$/mapSingletonOf.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$Date\$getDayAsString.as" afterPath="$PROJECT_DIR$/src/$Date/getDayAsString.as" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\$mapValue.as" afterPath="" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$MVC\addMediatedView.as" afterPath="$PROJECT_DIR$/src/$Mediator/addMediatedView.as" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$MVC\mapMediator.as" afterPath="$PROJECT_DIR$/src/$Map/mapMediator.as" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\topleveltools\SingleEnterFrame.as" afterPath="$PROJECT_DIR$/src/managers/SingleEnterFrame.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/managers/ValueManager.as" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$MVC\Mediator.as" afterPath="$PROJECT_DIR$/src/$Mediator/Mediator.as" />
+      <change type="DELETED" beforePath="D:\git\top-level-tools\src\_.as" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/managers/CallbackManager.as" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$\mapSingleton.as" afterPath="$PROJECT_DIR$/src/$Map/mapSingleton.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/managers/CommandManager.as" />
+      <change type="DELETED" beforePath="D:\git\top-level-tools\src\$\mapCallback.as" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$/$.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$Map/mapCallback.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/managers/EventManager.as" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\topleveltools\TopLevelMap.as" afterPath="$PROJECT_DIR$/src/managers/TopLevelMap.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" afterPath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$/mapValue.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$mapCallback.as" afterPath="$PROJECT_DIR$/src/$/mapCallback.as" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\$.as" afterPath="" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$addEnterFrameCallback.as" afterPath="$PROJECT_DIR$/src/$Event/addEnterFrameCallback.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$getInstance.as" afterPath="$PROJECT_DIR$/src/$/getInstance.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$mapContextView.as" afterPath="$PROJECT_DIR$/src/$/mapContextView.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$execute.as" afterPath="$PROJECT_DIR$/src/$/execute.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$MVC/addMediatedView.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$getNew.as" afterPath="$PROJECT_DIR$/src/$/getNew.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$getContext.as" afterPath="$PROJECT_DIR$/src/$/getContext.as" />
-      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$Mediator.as" afterPath="$PROJECT_DIR$/src/$MVC/Mediator.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/$Event/startEnterFrame.as" afterPath="$PROJECT_DIR$/src/$Event/startEnterFrame.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/managers/ObserverManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$Command/execute.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$Event/dispatch.as" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$\getInstance.as" afterPath="$PROJECT_DIR$/src/$Get/getInstance.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$Map/mapValue.as" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$\getContext.as" afterPath="$PROJECT_DIR$/src/$Get/getContext.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$Observer/notify.as" />
+      <change type="DELETED" beforePath="D:\git\top-level-tools\src\$\execute.as" afterPath="" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$\mapSingletonOf.as" afterPath="$PROJECT_DIR$/src/$Map/mapSingletonOf.as" />
+      <change type="DELETED" beforePath="D:\git\top-level-tools\src\$\mapValue.as" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$Get/getValue.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_/_.as" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$\getNew.as" afterPath="$PROJECT_DIR$/src/$Get/getNew.as" />
+      <change type="MOVED" beforePath="D:\git\top-level-tools\src\$\mapClass.as" afterPath="$PROJECT_DIR$/src/$Map/mapClass.as" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <ignored path="top-level-tools.iws" />
@@ -91,7 +101,7 @@
       <file leaf-file-name="ReadoutMediator.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="9" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
+            <state line="22" column="85" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -100,16 +110,25 @@
       <file leaf-file-name="HelloFlash.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="5" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0">
+            <state line="18" column="70" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="execute.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/$/execute.as">
+      <file leaf-file-name="Startup.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/Startup.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="20" column="33" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateBall.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBall.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="17" selection-start="186" selection-end="186" vertical-scroll-proportion="0.21270311">
               <folding />
             </state>
           </provider>
@@ -118,61 +137,25 @@
       <file leaf-file-name="BallMediator.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="66" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+            <state line="30" column="25" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StatsModel.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/model/StatsModel.as">
+      <file leaf-file-name="FormatMessage.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/FormatMessage.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="5" column="78" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateBallCommand.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBallCommand.as">
+      <file leaf-file-name="MessageVO.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/model/MessageVO.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StartupCommand.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/StartupCommand.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="46" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="top-level-tools_temp_flex_config.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/top-level-tools_temp_flex_config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="260" selection-end="260" vertical-scroll-proportion="0.245827">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mapMediator.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/$MVC/mapMediator.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mapCallback.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/$/mapCallback.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="20" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
+            <state line="7" column="34" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -197,22 +180,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/$/Mediator.as" />
-        <option value="$PROJECT_DIR$/src/$/getContext.as" />
-        <option value="$PROJECT_DIR$/src/$/getInstance.as" />
-        <option value="$PROJECT_DIR$/src/$/getNew.as" />
-        <option value="$PROJECT_DIR$/src/$/mapCallback.as" />
-        <option value="$PROJECT_DIR$/src/$/mapClass.as" />
-        <option value="$PROJECT_DIR$/src/$/execute.as" />
-        <option value="$PROJECT_DIR$/src/$/mapContextView.as" />
-        <option value="$PROJECT_DIR$/src/$/mapSingletonOf.as" />
-        <option value="$PROJECT_DIR$/src/$/mapValue.as" />
-        <option value="$PROJECT_DIR$/src/$/startEnterFrame.as" />
+        <option value="$PROJECT_DIR$/src/$Map/mapCommand.as" />
+        <option value="$PROJECT_DIR$/src/managers/CommandManager.as" />
+        <option value="$PROJECT_DIR$/src/$Command/execute.as" />
+        <option value="$PROJECT_DIR$/src/managers/ValueManager.as" />
+        <option value="$PROJECT_DIR$/src/$Map/mapValue.as" />
+        <option value="$PROJECT_DIR$/src/$Get/getValue.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBall.as" />
+        <option value="$PROJECT_DIR$/src/$Observer/observe.as" />
+        <option value="$PROJECT_DIR$/src/$Observer/notify.as" />
+        <option value="$PROJECT_DIR$/src/managers/ObserverManager.as" />
         <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as" />
-        <option value="$PROJECT_DIR$/src/$MVC/mapMediator.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/model/MessageVO.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/FormatMessage.as" />
         <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/StartupCommand.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/Startup.as" />
       </list>
     </option>
   </component>
@@ -254,8 +237,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -309,6 +290,8 @@
         </subPane>
       </pane>
       <pane id="Favorites" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,16 +308,19 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\top-level-tools\src\managers" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\git\top-level-tools\src\$MVC" />
-      <recent name="D:\git\top-level-tools\src\$Event" />
-      <recent name="D:\git\top-level-tools\src\$" />
-      <recent name="D:\git\top-level-tools\src" />
-      <recent name="D:\git\top-level-tools\src\junktests" />
+      <recent name="D:\git\top-level-tools\src\$Mediator" />
+      <recent name="D:\git\top-level-tools\src\$Map" />
+      <recent name="D:\git\top-level-tools\src\$Get" />
+      <recent name="D:\git\top-level-tools\src\$Command" />
+      <recent name="D:\git\top-level-tools\src\_" />
     </key>
   </component>
   <component name="RunManager" selected="Flex.HelloFlash">
@@ -462,14 +448,14 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958587" sideWeight="0.663525" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48444864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33741754" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987747" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498621" sideWeight="0.663525" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958587" sideWeight="0.663525" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -486,7 +472,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="true" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reorganizing directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaning up code" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -505,6 +491,7 @@
     <MESSAGE value="building a Hello World mvcs experiment" />
     <MESSAGE value="Experimenting with package names" />
     <MESSAGE value="Reorganizing directories" />
+    <MESSAGE value="Cleaning up code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -514,112 +501,94 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/$/mapValue.as">
+    <entry file="file://$PROJECT_DIR$/src/$Map/mapValue.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+        <state line="4" column="19" selection-start="63" selection-end="63" vertical-scroll-proportion="0.106351554" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Get/getValue.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="15" selection-start="105" selection-end="105" vertical-scroll-proportion="0.15952733" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Mediator/addMediatedView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="57" selection-start="340" selection-end="340" vertical-scroll-proportion="0.34564254" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Map/mapCommand.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/managers/CallbackManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="12" selection-start="648" selection-end="752" vertical-scroll-proportion="0.65435743" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Observer/observe.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="36" selection-start="176" selection-end="176" vertical-scroll-proportion="0.21270311" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Observer/notify.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="47" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/managers/TopLevelMap.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="96" selection-start="1418" selection-end="1498" vertical-scroll-proportion="0.23867069" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/managers/ObserverManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="32" selection-start="932" selection-end="932" vertical-scroll-proportion="0.7872969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/model/MessageVO.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="34" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/$MVC/Mediator.as">
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/FormatMessage.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$Event/startEnterFrame.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$Date/getDayAsString.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$String/getLettersFromString.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$String/getNumbersFromString.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$/mapCallback.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="9" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$MVC/mapMediator.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="5" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$/execute.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="5" column="78" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="66" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+        <state line="30" column="25" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/model/StatsModel.as">
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="18" column="70" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBallCommand.as">
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="22" column="85" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/Startup.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="33" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/StartupCommand.as">
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBall.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="46" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top-level-tools_temp_flex_config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="260" selection-end="260" vertical-scroll-proportion="0.245827">
+        <state line="8" column="17" selection-start="186" selection-end="186" vertical-scroll-proportion="0.21270311">
           <folding />
         </state>
       </provider>
