@@ -16,7 +16,10 @@ package managers
 
 		public function start():void
 		{
-			addEventListener(Event.ENTER_FRAME, onEnterFrame);
+			if (!hasEventListener(Event.ENTER_FRAME))
+			{
+				addEventListener(Event.ENTER_FRAME, onEnterFrame);
+			}
 		}
 
 		public function stop():void

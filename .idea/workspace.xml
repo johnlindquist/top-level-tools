@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="407e8822-bc14-4c9b-8309-aa19a38f626e" name="Default" comment="Cleaning up code">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
-      <change type="DELETED" beforePath="D:\git\top-level-tools\src\$Date\formatDate.as" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/managers/SingleEnterFrame.as" afterPath="$PROJECT_DIR$/src/managers/SingleEnterFrame.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/$Array/removeDuplicates.as" afterPath="$PROJECT_DIR$/src/$Array/removeDuplicates.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$Array/getItemsByKey.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/$Array/getItemByKey.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" afterPath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <ignored path="top-level-tools.iws" />
@@ -69,10 +68,55 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ReadoutMediator.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as">
+      <file leaf-file-name="randomize.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/$Array/randomize.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="85" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
+            <state line="22" column="17" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sum.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/$Array/sum.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="10" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="average.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/$Array/average.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="15" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getLowestValue.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/$Array/getLowestValue.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="10" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getHighestValue.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/$Array/getHighestValue.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="10" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="removeDuplicates.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/$Array/removeDuplicates.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="10" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -87,64 +131,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Startup.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/Startup.as">
+      <file leaf-file-name="startEnterFrame.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/$Event/startEnterFrame.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="33" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
+            <state line="6" column="41" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateBall.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBall.as">
+      <file leaf-file-name="SingleEnterFrame.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/managers/SingleEnterFrame.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="17" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+            <state line="23" column="52" selection-start="490" selection-end="490" vertical-scroll-proportion="0.6282246">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getItemByKey.as" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/$Array/getItemByKey.as">
+      <file leaf-file-name="randomIntegerWithinRange.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/$Number/randomIntegerWithinRange.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="34" selection-start="560" selection-end="560" vertical-scroll-proportion="0.47858196">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getItemsByKey.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/$Array/getItemsByKey.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="10" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BallMediator.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="25" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FormatMessage.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/FormatMessage.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="78" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessageVO.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/model/MessageVO.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="34" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
+            <state line="13" column="36" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -169,22 +177,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/$Command/execute.as" />
-        <option value="$PROJECT_DIR$/src/managers/ValueManager.as" />
-        <option value="$PROJECT_DIR$/src/$Map/mapValue.as" />
-        <option value="$PROJECT_DIR$/src/$Get/getValue.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBall.as" />
-        <option value="$PROJECT_DIR$/src/$Observer/observe.as" />
-        <option value="$PROJECT_DIR$/src/$Observer/notify.as" />
-        <option value="$PROJECT_DIR$/src/managers/ObserverManager.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/model/MessageVO.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/FormatMessage.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as" />
+        <option value="$PROJECT_DIR$/src/$Array/removeItems.as" />
+        <option value="$PROJECT_DIR$/src/$Array/retainItems.as" />
+        <option value="$PROJECT_DIR$/src/$Array/contains.as" />
+        <option value="$PROJECT_DIR$/src/$Array/containsAll.as" />
+        <option value="$PROJECT_DIR$/src/$Array/containsAny.as" />
+        <option value="$PROJECT_DIR$/src/$Array/getIndexOfDifference.as" />
+        <option value="$PROJECT_DIR$/src/$Number/randomIntegerWithinRange.as" />
+        <option value="$PROJECT_DIR$/src/$Number/randomWithinRange.as" />
+        <option value="$PROJECT_DIR$/src/$Array/randomize.as" />
+        <option value="$PROJECT_DIR$/src/$Array/sum.as" />
+        <option value="$PROJECT_DIR$/src/$Array/average.as" />
+        <option value="$PROJECT_DIR$/src/$Array/getLowestValue.as" />
+        <option value="$PROJECT_DIR$/src/$Array/getHighestValue.as" />
+        <option value="$PROJECT_DIR$/src/$Array/removeDuplicates.as" />
         <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/Startup.as" />
-        <option value="$PROJECT_DIR$/src/$Array/getItemsByKey.as" />
-        <option value="$PROJECT_DIR$/src/$Array/getItemByKey.as" />
+        <option value="$PROJECT_DIR$/src/managers/SingleEnterFrame.as" />
       </list>
     </option>
   </component>
@@ -244,38 +252,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="top-level-tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="top-level-tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="top-level-tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="top-level-tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$Array" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Favorites" />
@@ -290,7 +266,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -461,7 +437,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="true" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaning up code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Array functions from casalib" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -481,6 +457,8 @@
     <MESSAGE value="Experimenting with package names" />
     <MESSAGE value="Reorganizing directories" />
     <MESSAGE value="Cleaning up code" />
+    <MESSAGE value="adding Array functions from casalib" />
+    <MESSAGE value="Adding Array functions from casalib" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -490,58 +468,93 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/$Mediator/addMediatedView.as">
+    <entry file="file://$PROJECT_DIR$/src/$Array/retainItems.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="57" selection-start="340" selection-end="340" vertical-scroll-proportion="0.34564254" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$Map/mapCommand.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="27" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/managers/CallbackManager.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="12" selection-start="648" selection-end="752" vertical-scroll-proportion="0.65435743" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$Observer/observe.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="36" selection-start="176" selection-end="176" vertical-scroll-proportion="0.21270311" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$Observer/notify.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="47" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/managers/TopLevelMap.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="96" selection-start="1418" selection-end="1498" vertical-scroll-proportion="0.23867069" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/managers/ObserverManager.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="32" selection-start="932" selection-end="932" vertical-scroll-proportion="0.7872969" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/model/MessageVO.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="34" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
+        <state line="15" column="14" selection-start="490" selection-end="490" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/FormatMessage.as">
+    <entry file="file://$PROJECT_DIR$/src/$Array/contains.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="78" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+        <state line="14" column="10" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/BallMediator.as">
+    <entry file="file://$PROJECT_DIR$/src/$Array/containsAll.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="25" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0">
+        <state line="14" column="10" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Array/containsAny.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="10" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Array/getIndexOfDifference.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="10" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Number/randomWithinRange.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="10" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Number/randomIntegerWithinRange.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="36" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Array/randomize.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="17" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Array/sum.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="10" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Array/average.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="15" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Array/getLowestValue.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="10" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Array/getHighestValue.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="10" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/$Array/removeDuplicates.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="10" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -553,35 +566,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/view/ReadoutMediator.as">
+    <entry file="file://$PROJECT_DIR$/src/$Event/startEnterFrame.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="85" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/Startup.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="33" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
+        <state line="6" column="41" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBall.as">
+    <entry file="file://$PROJECT_DIR$/src/managers/SingleEnterFrame.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$Array/getItemsByKey.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="10" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/$Array/getItemByKey.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="34" selection-start="560" selection-end="560" vertical-scroll-proportion="0.47858196">
+        <state line="23" column="52" selection-start="490" selection-end="490" vertical-scroll-proportion="0.6282246">
           <folding />
         </state>
       </provider>

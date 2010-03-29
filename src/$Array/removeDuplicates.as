@@ -11,7 +11,7 @@ package $Array
 	 trace(ArrayUtil.removeDuplicates(numberArray));
 	 </code>
 	 */
-	public static function removeDuplicates(inArray:Array):Array
+	public function removeDuplicates(inArray:Array):Array
 	{
 		return inArray.filter(
 				function (e:*, i:int, inArray:Array):Boolean
