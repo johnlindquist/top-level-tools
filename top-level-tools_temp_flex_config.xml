@@ -59,6 +59,20 @@
     <class>tools.string.getLettersFromString</class>
     <class>tools.$</class>
     <class>tools._</class>
+    <class>tools.object.numProperties</class>
+    <class>tools.object.hasProperties</class>
+    <class>tools.object.isUniformPropertyType</class>
+    <class>tools.object.copy</class>
+    <class>tools.object.toArray</class>
+    <class>tools.object.toString</class>
+    <class>tools.object.clone</class>
+    <class>tools.object.inspect</class>
+    <class>tools.object.combine</class>
+    <class>tools.object.isSimple</class>
+    <class>tools.object.getKeys</class>
+    <class>tools.object.isNull</class>
+    <class>tools.object.isEmpty</class>
+    <class>tools.speed</class>
   </include-classes>
   <output>D:/git/top-level-tools/bin/top-level-tools.swc</output>
 </flex-config>
