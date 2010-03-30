@@ -1,4 +1,4 @@
-package tools.clazz
+package tools.type
 {
 	import flash.net.registerClassAlias;
 	import flash.utils.getQualifiedClassName;

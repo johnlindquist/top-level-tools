@@ -1,4 +1,4 @@
-package tools.clazz
+package tools.type
 {
 	/**
 		 * Targeted reflection describing an object's inheritance, including

@@ -1,4 +1,4 @@
-package tools.clazz
+package tools.type
 {
 	/**
 		 * Primary reflection method, producing an XML description of the object

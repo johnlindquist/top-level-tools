@@ -1,4 +1,4 @@
-package tools.clazz
+package tools.type
 {
 	import flash.utils.getDefinitionByName;
 

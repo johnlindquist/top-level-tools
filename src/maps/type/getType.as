@@ -1,8 +1,8 @@
-package maps.clazz
+package maps.type
 {
 	import maps.managers.TopLevelMap;
 
-	public function getNew(clazz:Class):*
+	public function getType(clazz:Class):*
 	{
 		var instantiateClass:Class = TopLevelMap.getInstance().getByKey(clazz);
 		return new instantiateClass();

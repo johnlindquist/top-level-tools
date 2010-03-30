@@ -1,4 +1,4 @@
-package tools.clazz
+package tools.type
 {
 	/**
 		 * Evaluates whether an object or class is derived from a specific
