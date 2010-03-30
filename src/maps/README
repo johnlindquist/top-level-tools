@@ -1,4 +1,7 @@
 "maps" will be a collection of simple tools that require an instance of a dictionary behind-the-scenes.
+
+***Disclaimer*** - global instances of anything goes against many best practices of large applications.
+
 This will allow many simple tools to allow objects to be mapped around your app.
 For example, you can map an instance of an object with mapValue(Foo, new Foo()) and then reference it anywhere else in the app with getValue(Foo) all done through package-level functions.
 This also allows maps for callbacks, commands, events, etc, etc, etc accessible throughout your app.
