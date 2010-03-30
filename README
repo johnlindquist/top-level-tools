@@ -16,3 +16,4 @@ TODO:
 2. Gather util functions from around the web (always giving credit!)
 3. Fully unit test each tool
 4. Move tools that require behind-the-scenes mapping into a separate, more meaningful package. "maps?"
+5. Optimize! Optimize! Optimize! Optimize! Optimize!
