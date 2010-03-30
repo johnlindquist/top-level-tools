@@ -15,8 +15,15 @@ package tools.command
 		{
 			command = new clazz();
 		}
-
-		command[functionName]();
+		
+		if(command is ICommand)
+		{
+			ICommand(command).execute();
+		}
+		else
+		{
+			command[functionName]();
+		}
 
 		CallbackManager.getInstance().callCallbacks(clazz);
 	}
