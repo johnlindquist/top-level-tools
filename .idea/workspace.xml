@@ -4,8 +4,22 @@
     <bookmark url="file://$PROJECT_DIR$/src/tools/map/mapSingleton.as" line="6" mnemonic="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="407e8822-bc14-4c9b-8309-aa19a38f626e" name="Default" comment="">
+    <list default="true" readonly="true" id="407e8822-bc14-4c9b-8309-aa19a38f626e" name="Default" comment="minor fixes">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/SpeedTesting.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpeedTesting_temp_flex_config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/MyRunnable.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/ArrayUtil.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpeedTesting_temp_flex_main_class_config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/SpeedUtil.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tools/object/inspect.as" afterPath="$PROJECT_DIR$/src/tools/object/inspect.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/Runnable.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tools/speed.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tools/object/isSimple.as" afterPath="$PROJECT_DIR$/src/tools/object/isSimple.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/wrapper.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" afterPath="$PROJECT_DIR$/top-level-tools_temp_flex_config.xml" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <ignored path="top-level-tools.iws" />
@@ -65,37 +79,91 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CreateBall.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBall.as">
+      <file leaf-file-name="isSimple.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tools/object/isSimple.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="8" column="10" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FormatMessage.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/FormatMessage.as">
+      <file leaf-file-name="inspect.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tools/object/inspect.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="4" column="10" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Startup.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/Startup.as">
+      <file leaf-file-name="SpeedTesting.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/SpeedTesting.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="70" column="8" selection-start="1403" selection-end="1403" vertical-scroll-proportion="0.88921714">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloFlash.as" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as">
+      <file leaf-file-name="MyRunnable.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/MyRunnable.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="70" selection-start="715" selection-end="715" vertical-scroll-proportion="0.30871493">
+            <state line="2" column="10" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Runnable.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/Runnable.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="5" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="speed.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tools/speed.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="35" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayUtil.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/ArrayUtil.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="8" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpeedUtil.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/SpeedUtil.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="46" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sum.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tools/array/sum.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="4" selection-start="339" selection-end="485" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="average.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tools/array/average.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="4" selection-start="334" selection-end="466" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -120,22 +188,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/$Array/contains.as" />
-        <option value="$PROJECT_DIR$/src/$Array/containsAll.as" />
-        <option value="$PROJECT_DIR$/src/$Array/containsAny.as" />
-        <option value="$PROJECT_DIR$/src/$Array/getIndexOfDifference.as" />
-        <option value="$PROJECT_DIR$/src/$Number/randomIntegerWithinRange.as" />
-        <option value="$PROJECT_DIR$/src/$Number/randomWithinRange.as" />
-        <option value="$PROJECT_DIR$/src/$Array/randomize.as" />
-        <option value="$PROJECT_DIR$/src/$Array/sum.as" />
-        <option value="$PROJECT_DIR$/src/$Array/average.as" />
-        <option value="$PROJECT_DIR$/src/$Array/getLowestValue.as" />
-        <option value="$PROJECT_DIR$/src/$Array/getHighestValue.as" />
-        <option value="$PROJECT_DIR$/src/$Array/removeDuplicates.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as" />
-        <option value="$PROJECT_DIR$/src/managers/SingleEnterFrame.as" />
-        <option value="$PROJECT_DIR$/src/top/managers/SingleEnterFrame.as" />
-        <option value="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/Startup.as" />
+        <option value="$PROJECT_DIR$/src/tools/object/toString.as" />
+        <option value="$PROJECT_DIR$/src/tools/object/clone.as" />
+        <option value="$PROJECT_DIR$/src/tools/object/combine.as" />
+        <option value="$PROJECT_DIR$/src/tools/object/copy.as" />
+        <option value="$PROJECT_DIR$/src/tools/object/getKeys.as" />
+        <option value="$PROJECT_DIR$/src/tools/object/isUndefined.as" />
+        <option value="$PROJECT_DIR$/src/tools/object/isNull.as" />
+        <option value="$PROJECT_DIR$/src/tools/object/isEmpty.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/ArrayUtil.as" />
+        <option value="$PROJECT_DIR$/src/tools/object/isSimple.as" />
+        <option value="$PROJECT_DIR$/src/tools/object/inspect.as" />
+        <option value="$PROJECT_DIR$/src/tools/speed.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/SpeedUtil.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/Runnable.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/MyRunnable.as" />
+        <option value="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/SpeedTesting.as" />
       </list>
     </option>
   </component>
@@ -158,7 +226,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -183,6 +251,58 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="top-level-tools" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpeedTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="top-level-tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpeedTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -221,14 +341,7 @@
       <recent name="D:\git\top-level-tools\src\$Command" />
     </key>
   </component>
-  <component name="RunManager" selected="Flex.HelloFlash">
-    <configuration default="false" name="TopLevelTools" type="FlexRunConfigurationType" factoryName="Flex" temporary="true" html_or_swf_file_path="$PROJECT_DIR$/out/production/top-level-tools/_TopLevelTools.swf" main_class_name="TopLevelTools" module_name="top-level-tools" run_mode="MainClass" url_to_launch="">
-      <RunnerSettings RunnerId="FlexDebugRunner" />
-      <RunnerSettings RunnerId="FlexRunner" />
-      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
-      <ConfigurationWrapper RunnerId="FlexRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Flex.SpeedTesting">
     <configuration default="false" name="HelloFlash" type="FlexRunConfigurationType" factoryName="Flex" temporary="true" html_or_swf_file_path="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/bin/_HelloFlash.swf" main_class_name="HelloFlash" module_name="HelloFlash" run_mode="MainClass" url_to_launch="">
       <RunnerSettings RunnerId="FlexDebugRunner" />
       <RunnerSettings RunnerId="FlexRunner" />
@@ -301,9 +414,24 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="2">
+    <configuration default="false" name="TopLevelTools" type="FlexRunConfigurationType" factoryName="Flex" html_or_swf_file_path="$PROJECT_DIR$/out/production/top-level-tools/_TopLevelTools.swf" main_class_name="TopLevelTools" module_name="top-level-tools" run_mode="MainClass" url_to_launch="">
+      <RunnerSettings RunnerId="FlexDebugRunner" />
+      <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
+      <ConfigurationWrapper RunnerId="FlexRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpeedTesting" type="FlexRunConfigurationType" factoryName="Flex" html_or_swf_file_path="$PROJECT_DIR$/out/production/SpeedTesting/wrapper.html" main_class_name="SpeedTesting" module_name="SpeedTesting" run_mode="HtmlOrSwfFile" url_to_launch="">
+      <RunnerSettings RunnerId="FlexDebugRunner" />
+      <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
+      <ConfigurationWrapper RunnerId="FlexRunner" />
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Flex.TopLevelTools" />
       <item index="1" class="java.lang.String" itemvalue="Flex.HelloFlash" />
+      <item index="2" class="java.lang.String" itemvalue="Flex.SpeedTesting" />
     </list>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -343,11 +471,11 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987747" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33741754" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987747" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987747" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987747" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958587" sideWeight="0.663525" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958587" sideWeight="0.663525" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -370,7 +498,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="true" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renaming packages to &quot;tools&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor fixes" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -394,6 +522,9 @@
     <MESSAGE value="Cleaning up code" />
     <MESSAGE value="Renaming packages" />
     <MESSAGE value="Renaming packages to &quot;tools&quot;" />
+    <MESSAGE value="adding object tools mainly from Jackson Dunstan" />
+    <MESSAGE value="adding object tools mainly from Casalib" />
+    <MESSAGE value="minor fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -403,114 +534,114 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tools/array/containsAny.as">
+    <entry file="file://$PROJECT_DIR$/src/tools/object/clone.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="10" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0">
+        <state line="4" column="10" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools/array/getIndexOfDifference.as">
+    <entry file="file://$PROJECT_DIR$/src/tools/object/combine.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="10" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
+        <state line="10" column="22" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools/number/randomWithinRange.as">
+    <entry file="file://$PROJECT_DIR$/src/tools/object/copy.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+        <state line="26" column="35" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools/number/randomIntegerWithinRange.as">
+    <entry file="file://$PROJECT_DIR$/src/tools/object/getKeys.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="377" selection-end="377" vertical-scroll-proportion="0.34564254">
+        <state line="17" column="12" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools/array/sum.as">
+    <entry file="file://$PROJECT_DIR$/src/tools/object/isNull.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="10" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0">
+        <state line="8" column="10" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tools/object/isEmpty.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="10" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tools/array/average.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="15" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
+        <state line="13" column="4" selection-start="334" selection-end="466" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools/array/getLowestValue.as">
+    <entry file="file://$PROJECT_DIR$/src/tools/array/sum.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="10" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
+        <state line="13" column="4" selection-start="339" selection-end="485" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools/array/removeDuplicates.as">
+    <entry file="file://$PROJECT_DIR$/src/tools/object/isSimple.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="10" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+        <state line="8" column="10" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools/event/startEnterFrame.as">
+    <entry file="file://$PROJECT_DIR$/src/tools/object/inspect.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="41" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
+        <state line="4" column="10" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools/array/randomize.as">
+    <entry file="file://$PROJECT_DIR$/src/tools/speed.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="17" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
+        <state line="2" column="35" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools/array/getHighestValue.as">
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/ArrayUtil.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="10" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+        <state line="4" column="8" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tools/managers/SingleEnterFrame.as">
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/SpeedUtil.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="494" selection-end="494" vertical-scroll-proportion="0.6115214">
+        <state line="4" column="46" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/CreateBall.as">
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/Runnable.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="5" column="5" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/FormatMessage.as">
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/MyRunnable.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="2" column="10" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/org/topleveltools/examples/helloflash/controller/Startup.as">
+    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/src/SpeedTesting.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/src/HelloFlash.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="70" selection-start="715" selection-end="715" vertical-scroll-proportion="0.30871493">
+        <state line="70" column="8" selection-start="1403" selection-end="1403" vertical-scroll-proportion="0.88921714">
           <folding />
         </state>
       </provider>

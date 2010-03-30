@@ -2,7 +2,7 @@ package tools.object
 {
 	import flash.utils.describeType;
 
-	public static function inspect(obj:Object, depth:int = 2):String
+	public function inspect(obj:Object, depth:int = 2):String
 	{
 		var scan:Function = function(obj:Object, depth:int, prefix:String):String
 		{

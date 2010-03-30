@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/HelloFlash.iml" filepath="$PROJECT_DIR$/../top-level-tools-examples/HelloFlash/HelloFlash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/SpeedTesting.iml" filepath="$PROJECT_DIR$/../top-level-tools-examples/SpeedTesting/SpeedTesting.iml" />
       <module fileurl="file://$PROJECT_DIR$/top-level-tools.iml" filepath="$PROJECT_DIR$/top-level-tools.iml" />
     </modules>
   </component>

@@ -6,7 +6,7 @@ package tools.object
 	 * @param the object to check
 	 * @return true if the given object is a simple data type; false if not
 	 */
-	public static function isSimple(object:Object):Boolean
+	public function isSimple(object:Object):Boolean
 	{
 		switch (typeof(object))
 		{
