@@ -1,6 +1,6 @@
 Top-Level Tools is a collection of package-level functions to make your ActionScript 3 life easier.
 
-Package-level functions are slightly faster than static function calls and more convenient from your IDE as they're available anywhere with auto-complete. I initially considered building runnable classes with interfaces for each of these functions for best "out-of-the-box" performance, but decided it's just best for you to copy/paste these functions inline if you're seeking the best possible performance from these.
+Package-level functions are slightly faster than static function calls and more convenient from your IDE as they're available anywhere with auto-complete. I initially considered building runnable classes with interfaces for each of these functions for best "out-of-the-box" performance, but decided it's just best for you to copy/paste these functions inline if you're seeking the best possible performance from these. (Considering starting an MXMLC ticket for supporting inlining to solve this problem completely)
 
 
 A large part of the project is focusing on gathering utils from other open-source projects around the web. The list below deserves the proper credit for writing these great utils:
