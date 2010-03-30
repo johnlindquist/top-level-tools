@@ -8,3 +8,11 @@ http://casalib.org/
 http://jacksondunstan.com/
 http://blog.soulwire.co.uk/
 more to come...
+
+
+TODO: 
+
+1. Get community support
+2. Gather util functions from around the web (always giving credit!)
+3. Fully unit test each tool
+4. Move tools that require behind-the-scenes mapping into a separate, more meaningful package. "maps?"
