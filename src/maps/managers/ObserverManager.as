@@ -4,6 +4,7 @@ package maps.managers
 	import flash.utils.getDefinitionByName;
 	import flash.utils.getQualifiedClassName;
 
+	[ExcludeClass]
 	public class ObserverManager
 	{
 		private static var observerManager:ObserverManager;

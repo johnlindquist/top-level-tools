@@ -2,6 +2,7 @@ package maps.callback
 {
 	import flash.utils.Dictionary;
 
+	[ExcludeClass]
 	public class CallbackManager
 	{
 		private static var commandManager:CallbackManager;

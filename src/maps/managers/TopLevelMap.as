@@ -9,6 +9,7 @@ package maps.managers
 	import flash.utils.getDefinitionByName;
 	import flash.utils.getQualifiedClassName;
 
+	[ExcludeClass]
 	public class TopLevelMap
 	{
 		private static var topLevelMap:TopLevelMap;

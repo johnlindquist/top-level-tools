@@ -26,7 +26,7 @@ package tools.displayObject
 	 * @param align
 	 * 
 	 * The alignment of the DisplayObject within the target Rectangle. Use a constant from 
-	 * the DisplayUtils class.
+	 * the DisplayUtils clazz.
 	 * 
 	 * @param applyTransform
 	 * 

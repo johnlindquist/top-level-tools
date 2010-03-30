@@ -1,6 +1,5 @@
 package maps.mediator
 {
-	import tools.mediator.*;
 	import flash.display.DisplayObject;
 	import flash.display.Sprite;
 

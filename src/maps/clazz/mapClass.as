@@ -1,4 +1,4 @@
-package maps.class
+package maps.clazz
 {
 	import maps.managers.TopLevelMap;
 

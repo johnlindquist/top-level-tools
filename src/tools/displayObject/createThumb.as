@@ -29,7 +29,7 @@ package tools.displayObject
 	 * the image will be scaled to fit along one axis it will be necessary to crop 
 	 * the image. Use this parameter to specify how the copied and scaled image should 
 	 * be aligned within the thumbnail boundaries. Use a constant from the Alignment 
-	 * enumeration class
+	 * enumeration clazz
 	 * 
 	 * @param smooth
 	 * 

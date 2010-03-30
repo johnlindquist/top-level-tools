@@ -1,10 +1,9 @@
 package maps.command
 {
-	import tools.command.*;
 	import maps.callback.CallbackManager;
 	import maps.managers.CommandManager;
 
-	public function execute(clazz:Class, functionName:String = "maps.command.execute"):void
+	public function execute(clazz:Class, functionName:String = "execute"):void
 	{
 		var command:*;
 		var mappedCommand:Class = CommandManager.getInstance().getByKey(clazz);

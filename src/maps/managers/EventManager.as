@@ -2,6 +2,7 @@ package maps.managers
 {
 	import flash.utils.Dictionary;
 
+	[ExcludeClass]
 	public class EventManager
 	{
 		private static var eventManager:EventManager;
