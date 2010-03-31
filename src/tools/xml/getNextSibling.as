@@ -11,7 +11,7 @@ package tools.xml
 	 * @langversion ActionScript 3.0
 	 * @playerversion Flash 9.0
 	 */
-	public static function getNextSibling(x:XML):XML
+	public function getNextSibling(x:XML):XML
 	{
 		return getSiblingByIndex(x, 1);
 	}
