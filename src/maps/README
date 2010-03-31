@@ -1,4 +1,4 @@
-"maps" will be a collection of simple tools that require an instance of a dictionary behind-the-scenes.
+"maps" will be a collection of simple tools that require an instance of a dictionary behind-the-scenes. So far, this is more of an experimental playground for simple mapping for small projects.
 
 ***Disclaimer*** - global instances of anything goes against many best practices of large applications.
 
