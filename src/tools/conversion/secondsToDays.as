@@ -6,7 +6,7 @@ package tools.conversion
 	 @param seconds: The number of seconds.
 	 @return Returns the number of days.
 	 */
-	public static function secondsToDays(seconds:Number):Number
+	public function secondsToDays(seconds:Number):Number
 	{
 		return hoursToDays(secondsToHours(seconds));
 	}
