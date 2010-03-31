@@ -4,10 +4,11 @@ Package-level functions are slightly faster than static function calls and more 
 
 
 A large part of the project is focusing on gathering utils from other open-source projects around the web. The list below deserves the proper credit for writing these great utils:
-http://casalib.org/
+http://casalib.org/ (the majority of the tools come from casalib)
 http://jacksondunstan.com/
 http://blog.soulwire.co.uk/
 http://www.flightxd.com/flightframework/
+http://destroytoday.com
 more to come...
 
 
