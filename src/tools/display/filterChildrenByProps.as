@@ -1,4 +1,4 @@
-package tools.displayObject
+package tools.display
 {
 	import flash.display.DisplayObject;
 	import flash.display.DisplayObjectContainer;

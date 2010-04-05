@@ -1,4 +1,4 @@
-package tools.displayObject
+package tools.display
 {
 	/**
 	 * @author Justin Windle (justin@soulwire.co.uk)

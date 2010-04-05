@@ -1,4 +1,4 @@
-package tools.displayObject
+package tools.display
 {
 	public function sumProps(children:Array, prop:String):Number
 	{
