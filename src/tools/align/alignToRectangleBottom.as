@@ -11,7 +11,7 @@ package tools.align
 	 @param snapToPixel: Force the position to whole pixels <code>true</code>, or to let the DisplayObject be positioned on sub-pixels <code>false</code>.
 	 @param outside: Align the DisplayObject to the outside of the bounds <code>true</code>, or the inside <code>false</code>.
 	 */
-	public static function alignToRectangleBottom(displayObject:DisplayObject, bounds:Rectangle, snapToPixel:Boolean = true, outside:Boolean = false):void
+	public function alignToRectangleBottom(displayObject:DisplayObject, bounds:Rectangle, snapToPixel:Boolean = true, outside:Boolean = false):void
 	{
 		var y:Number = outside ? bounds.bottom : bounds.bottom - displayObject.height;
 		displayObject.y = snapToPixel ? Math.round(y) : y;

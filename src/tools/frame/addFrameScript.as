@@ -11,7 +11,7 @@ package tools.frame
 	 @return Returns <code>true</code> if the frame was found; otherwise <code>false</code>.
 	 @throws ArguementTypeError if you pass a type other than a <code>String</code> or <code>uint</code> to parameter <code>frame</code>.
 	 */
-	public static function addFrameScript(target:MovieClip, frame:*, notify:Function):Boolean
+	public function addFrameScript(target:MovieClip, frame:*, notify:Function):Boolean
 	{
 		if (frame is String)
 			frame = getFrameNumberForLabel(target, frame);
