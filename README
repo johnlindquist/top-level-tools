@@ -5,13 +5,14 @@ Package-level functions are slightly faster than static function calls and more 
 
 A large part of the project is focusing on gathering utils from other open-source projects around the web. The list below deserves the proper credit for writing these great utils:
 http://casalib.org/
+http://code.google.com/p/sekati/
+http://code.google.com/p/as3-commons/
 http://jacksondunstan.com/
 http://blog.soulwire.co.uk/
 http://www.flightxd.com/flightframework/
 http://destroytoday.com
 http://code.google.com/p/as3corelib/
 http://code.google.com/p/copyengine/
-http://code.google.com/p/sekati/
 http://www.senocular.com/flash/actionscript/?file=ActionScript_3.0/
 more to come...
 
